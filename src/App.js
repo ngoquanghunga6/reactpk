@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
 
         <p>
-          Ngô
+          Ngô Quang Hùng
         </p>
         
       </header>
